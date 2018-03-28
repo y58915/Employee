@@ -1,0 +1,7 @@
+﻿  Project3.cpp
+e:\freshman\cmpsc\test\project3\project 3\project3.cpp(105): warning C4018: '<': signed/unsigned mismatch
+e:\freshman\cmpsc\test\project3\project 3\project3.cpp(208): warning C4018: '<': signed/unsigned mismatch
+e:\freshman\cmpsc\test\project3\project 3\project3.cpp(249): warning C4018: '<': signed/unsigned mismatch
+e:\freshman\cmpsc\test\project3\project 3\project3.cpp(265): warning C4018: '<': signed/unsigned mismatch
+  Project 3.vcxproj -> E:\Freshman\CMPSC\Test\Project3\Debug\Project 3.exe
+  Project 3.vcxproj -> E:\Freshman\CMPSC\Test\Project3\Debug\Project 3.pdb (Full PDB)
